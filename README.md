@@ -1,2 +1,4 @@
 # hello-world
-hello world repository
+Hi Everyone,
+
+This is Aniket. And this is my Github repository!!!
